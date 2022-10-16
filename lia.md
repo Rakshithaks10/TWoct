@@ -34,3 +34,7 @@
   |3|Archana|
   
 ![download](https://user-images.githubusercontent.com/115916696/196024198-d1ec783f-36cf-4195-8c67-aaf02e1fa1fd.png)
+
+please mail your assignments to <iim.info@mail.com>
+If in need of more information contact the web page <https://www.iimskills.org>
+
