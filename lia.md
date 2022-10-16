@@ -17,7 +17,7 @@
   </li>
   </ol>
   
-  <p> Every sunday the session get starts at 10am and will get some reviews for the previous assignments and then the particular topic of the day will be started. later will take brake for 30min from 12-12.30pm.<br> later will continue with the rest of the session and will windup by 2pm </p>
+  <p> Every sunday the session get starts at 10am and will get some reviews for the previous assignments and then the particular topic of the day will be started. later will take brake for 30min from 12-12.30pm.During break i love to have ☕ <br> later will continue with the rest of the session and will windup by 2pm </p>
   
   ***Note***
   <ul>
@@ -26,3 +26,11 @@
   <li> Clear the doubts if you have any</li>
   </ul>
   
+  Participants list
+  |Sl No|Name|
+  |------|----------------|
+  |1|Rakshitha|
+  |2|Priyanka|
+  |3|Archana|
+  
+![download](https://user-images.githubusercontent.com/115916696/196024198-d1ec783f-36cf-4195-8c67-aaf02e1fa1fd.png)
